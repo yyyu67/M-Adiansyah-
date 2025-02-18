@@ -75,10 +75,10 @@
      <p id="ketgeser">Klik untuk Geser!</p>
      
      <!-- Edit Pesan Akhir di Sini -->
-     <div><blockquote id='bq'>
+    
        <p id="kalimat">aku cuma mau bilang terimakasih udah selalu bersamaku dan mau nerima aku apa adanya..  dan asal kamu tau gimana beruntungnya aku semenjak deket sama kamu,  dengan kamu yang sederhana tapi kamu selalu punya cara buat aku <i>happy</i> bahkan dari hal kecil yang belum pernah aku dapatkan sebelumnya..  terimakasih banyak ya. Hari ini adalah hari spesial karena dunia menghadirkan seseorang yang begitu berarti dalam hidupku—kamu. Terima kasih sudah menjadi cahaya dalam hariku, pelengkap dalam setiap langkahku, dan alasan di balik senyumku
        <p id="pesanAkhir">selamat ulang tahun sayang >< 🤍</p>
-     </blockquote></div>
+     
      
    </div>
 
